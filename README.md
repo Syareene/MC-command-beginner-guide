@@ -1,5 +1,6 @@
 # MC-command-beginner-guide
-初心者向けコマンド解説(作成中)  
+初心者向けコマンド解説
+## 現在作成中です
 
 このリポジトリは[CC by 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)が適応されます。  
 もし、引用等する場合は必ずここへのリンク等を記載するようにお願いします。  
