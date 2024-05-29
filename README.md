@@ -12,3 +12,7 @@
 動画化すると同時に文章等をきれいにする予定なのでお待ち下さい。  
 
 (CCの画像をここに入れること)  
+
+## クレジット
+[Youtube](https://www.youtube.com/@syareene3468)  
+[Twitter(X)](https://twitter.com/syareene_sub)  
